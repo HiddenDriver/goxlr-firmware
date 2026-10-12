@@ -1,0 +1,7 @@
+
+# CI cost policy and approved workflow inventory
+/.github/workflows/ @HiddenDriver
+/.github/CI_POLICY.md @HiddenDriver
+/.github/ci-workflows.json @HiddenDriver
+/.github/verify-ci-policy.cjs @HiddenDriver
+/AGENTS.md @HiddenDriver
